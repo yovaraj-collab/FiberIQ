@@ -137,9 +137,7 @@ This software is intended as an engineering analysis aid. Results should always 
 
 ---
 
-License
-
-Specify your license here (MIT, Apache 2.0, GPL, Proprietary, etc.).
+License - MIT
 
 ---
 
